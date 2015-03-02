@@ -1,1 +1,1 @@
-# worldazadari for worldazadari.com
+# Repository for worldazadari.com
